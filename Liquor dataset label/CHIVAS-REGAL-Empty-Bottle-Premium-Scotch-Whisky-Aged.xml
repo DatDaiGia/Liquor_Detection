@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chivas regal</folder>
+	<filename>CHIVAS-REGAL-Empty-Bottle-Premium-Scotch-Whisky-Aged.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Chivas regal/CHIVAS-REGAL-Empty-Bottle-Premium-Scotch-Whisky-Aged.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chivas Regal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>8</ymin>
+			<xmax>185</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smirnoff</folder>
+	<filename>Smirnoff-ice-7126.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Smirnoff/Smirnoff-ice-7126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smirnoff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>108</ymin>
+			<xmax>1582</xmax>
+			<ymax>2992</ymax>
+		</bndbox>
+	</object>
+</annotation>

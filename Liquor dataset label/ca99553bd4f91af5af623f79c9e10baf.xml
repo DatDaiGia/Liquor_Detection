@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack daniels</folder>
+	<filename>ca99553bd4f91af5af623f79c9e10baf.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jack daniels/ca99553bd4f91af5af623f79c9e10baf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jack Daniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>128</ymin>
+			<xmax>433</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

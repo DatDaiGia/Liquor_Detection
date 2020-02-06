@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jameson</folder>
+	<filename>img_10_170823.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jameson/img_10_170823.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jameson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>7</ymin>
+			<xmax>319</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

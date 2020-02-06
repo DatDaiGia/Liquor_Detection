@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chivas regal</folder>
+	<filename>whisky-chivas-regal-18-anos-D_NQ_NP_859945-MLC27573669234_062018-F.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Chivas regal/whisky-chivas-regal-18-anos-D_NQ_NP_859945-MLC27573669234_062018-F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>1015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chivas Regal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>17</ymin>
+			<xmax>791</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+</annotation>

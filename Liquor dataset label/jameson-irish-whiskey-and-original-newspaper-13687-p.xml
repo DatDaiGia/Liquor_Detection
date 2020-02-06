@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jameson</folder>
+	<filename>jameson-irish-whiskey-and-original-newspaper-13687-p.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jameson/jameson-irish-whiskey-and-original-newspaper-13687-p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jameson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>416</ymin>
+			<xmax>1130</xmax>
+			<ymax>1722</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Remy martin</folder>
+	<filename>remy-martin-vsop-750-ml-4161_1.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Remy martin/remy-martin-vsop-750-ml-4161_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Remy Martin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>9</ymin>
+			<xmax>371</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack daniels</folder>
+	<filename>jack_daniels_honey_50ml__28925.1511150862.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jack daniels/jack_daniels_honey_50ml__28925.1511150862.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jack Daniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>6</ymin>
+			<xmax>716</xmax>
+			<ymax>1279</ymax>
+		</bndbox>
+	</object>
+</annotation>

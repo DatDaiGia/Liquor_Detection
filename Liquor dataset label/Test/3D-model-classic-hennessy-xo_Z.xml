@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hennessy</folder>
+	<filename>3D-model-classic-hennessy-xo_Z.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Hennessy/3D-model-classic-hennessy-xo_Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hennessy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>25</ymin>
+			<xmax>821</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>

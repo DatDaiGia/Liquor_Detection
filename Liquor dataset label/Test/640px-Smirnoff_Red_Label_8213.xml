@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smirnoff</folder>
+	<filename>640px-Smirnoff_Red_Label_8213.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Smirnoff/640px-Smirnoff_Red_Label_8213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smirnoff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>25</ymin>
+			<xmax>460</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+</annotation>

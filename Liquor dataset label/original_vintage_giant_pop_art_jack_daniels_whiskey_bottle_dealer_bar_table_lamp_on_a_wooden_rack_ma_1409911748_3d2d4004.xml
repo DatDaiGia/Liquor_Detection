@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack daniels</folder>
+	<filename>original_vintage_giant_pop_art_jack_daniels_whiskey_bottle_dealer_bar_table_lamp_on_a_wooden_rack_ma_1409911748_3d2d4004.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jack daniels/original_vintage_giant_pop_art_jack_daniels_whiskey_bottle_dealer_bar_table_lamp_on_a_wooden_rack_ma_1409911748_3d2d4004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jack Daniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>3</ymin>
+			<xmax>421</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

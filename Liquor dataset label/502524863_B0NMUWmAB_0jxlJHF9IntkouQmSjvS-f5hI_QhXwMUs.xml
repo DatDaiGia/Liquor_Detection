@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chivas regal</folder>
+	<filename>502524863_B0NMUWmAB_0jxlJHF9IntkouQmSjvS-f5hI_QhXwMUs.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Chivas regal/502524863_B0NMUWmAB_0jxlJHF9IntkouQmSjvS-f5hI_QhXwMUs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chivas Regal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>1</ymin>
+			<xmax>493</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

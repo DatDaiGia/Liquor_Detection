@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hennessy</folder>
+	<filename>41bea872-79f6-11e6-8a65-8e1f26baf60a.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Hennessy/41bea872-79f6-11e6-8a65-8e1f26baf60a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>619</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hennessy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>313</ymin>
+			<xmax>510</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

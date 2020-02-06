@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack daniels</folder>
+	<filename>full_viski-liker-dzhek-deniels-tennessi-khani-jack-daniels-tennessee-honey-35-0-7l-v-metallicheskoj-korobke-real-photo.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jack daniels/full_viski-liker-dzhek-deniels-tennessi-khani-jack-daniels-tennessee-honey-35-0-7l-v-metallicheskoj-korobke-real-photo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jack Daniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>106</ymin>
+			<xmax>558</xmax>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+</annotation>

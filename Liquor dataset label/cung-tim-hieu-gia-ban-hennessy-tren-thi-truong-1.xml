@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hennessy</folder>
+	<filename>cung-tim-hieu-gia-ban-hennessy-tren-thi-truong-1.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Hennessy/cung-tim-hieu-gia-ban-hennessy-tren-thi-truong-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hennessy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>22</ymin>
+			<xmax>471</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

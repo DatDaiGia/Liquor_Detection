@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jameson</folder>
+	<filename>725fb6657aad8eaf64ae38cfccbf409b--groomsmen-gifts-unique-groomsman-gifts.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jameson/725fb6657aad8eaf64ae38cfccbf409b--groomsmen-gifts-unique-groomsman-gifts.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jameson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>116</ymin>
+			<xmax>295</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

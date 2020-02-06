@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smirnoff</folder>
+	<filename>screenshot-2019-11-05-at-124423-pm_ssO43GW.jpg</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Smirnoff/screenshot-2019-11-05-at-124423-pm_ssO43GW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smirnoff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>225</ymin>
+			<xmax>375</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

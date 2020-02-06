@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jack daniels</folder>
+	<filename>Jack-Daniels-Tennessee-Honey-Whiskey-Liqueur-Cocktail.png</filename>
+	<path>/Users/datnguyen/Documents/Git/Asia Frontier Project/Liquor dataset/Jack daniels/Jack-Daniels-Tennessee-Honey-Whiskey-Liqueur-Cocktail.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jack Daniel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>11</ymin>
+			<xmax>388</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>
